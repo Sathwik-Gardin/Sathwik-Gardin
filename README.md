@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathwik</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A Machine Learning Engineer.</h3>
 
 <br/>
 
